@@ -31,5 +31,4 @@ To overcome this memory limitation, this project uses a tiny **20x30 internal fr
 * **Language:** C (Bare-Metal)
 * **IDE:** Keil µVision 5
 * **Libraries:** Custom headers (`ES.h`, `ES.lib`).
-## Author
 
